@@ -9,5 +9,9 @@ public class PrimaryController {
     private void switchToSecondary() throws IOException {
         App.setRoot("secondary");
     }
+    private void add(){
+        int a= 100;
+        int b =200;
+        int c =a+b;
+    }
 }
-int a;
